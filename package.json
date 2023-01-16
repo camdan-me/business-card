@@ -1,0 +1,32 @@
+{
+  "name": "camdan-me",
+  "version": "0.0.1",
+  "description": "Camdan Mead's digital business card.",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camdan-me/business-card.git"
+  },
+  "keywords": [
+    "camdan",
+    "mead",
+    "camdanme",
+    "business-card"
+  ],
+  "author": {
+    "name": "Camdan Mead",
+    "email": "hello@camdan.me",
+    "url": "https://camdan.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camdan-me/business-card/issues",
+    "email": "hello@camdan.me"
+  },
+  "homepage": "https://github.com/camdan-me/business-card#readme",
+  "dependencies": {
+    "boxen": "^7.0.1",
+    "chalk": "^5.2.0"
+  }
+}
